@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajeebpeter
 - 👀 I’m interested in technologies that make changes in scale. like Container, Machine Learning..
 - 🌱 I’m currently learning kubernetes
-- 💞️ I’m looking to collaborate on kubernets add ons
+- 💞️ I’m looking to collaborate on kubernetes add ons
 - 📫 How to reach me ajeebpeter@gmail.com
 
 <!---
